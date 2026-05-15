@@ -1,0 +1,21 @@
+{
+  "$schema": "https://schema.tauri.app/config/2",
+  "productName": "D&D Encounter Manager",
+  "identifier": "com.shiely.dndencounter",
+  "version": "0.1.0",
+  "build": {
+    "beforeBuildCommand": "",
+    "beforeDevCommand": "",
+    "devUrl": null,
+    "frontendDist": null
+  },
+  "app": {
+    "windows": [
+      {
+        "title": "D&D Encounter Manager",
+        "width": 900,
+        "height": 700
+      }
+    ]
+  }
+}
